@@ -165,7 +165,7 @@ frontend/index.html
 
 ## Author
 
-T Shivanesh Kumar
+Team OM3N
 
 ---
 
